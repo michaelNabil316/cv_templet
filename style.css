@@ -1,0 +1,130 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-color: lavender;
+}
+.imgStyle{
+    width: 100%;
+    height: 10%;
+}
+.g_play_style{
+    width: 26px;
+    height: 18px;
+}
+.numStyl{
+    font-size: 80%;
+    font-weight: 500;
+}
+.leftSide{
+    margin-top: 1.5%;
+}
+.skilsStyl{
+    padding-left: 1%;
+    color: teal;
+}
+.activities{
+    padding-left: 1%;
+    color: teal;
+    font-size: 100%;
+    font-weight: bold;
+}
+.iconsty{
+    color: teal;
+}
+.iconstyred{
+    color: red;
+}
+.iconstyblue{
+    color: steelblue;
+}
+.iconstyblack{
+    color: black;
+}
+.iconstygrey{
+    color: grey;
+}
+.eighteenPercent{
+    font-size: 80%
+}
+.hrStyle{
+    padding-right: 10%;
+}
+.iconsty2{
+    color: teal;
+    padding-top: 3px;
+}
+.progPad{
+    margin-right: 10%;
+}
+.perecentTxt{
+    position: relative;top:-5px ;
+}
+.progressColor{
+    background-color: teal;
+}
+.grayBG{
+    background-color: rgb(245, 245, 245)
+}
+.workExTXT{
+    font-size: 200%;
+    font-weight: bold;
+    text-align: center;
+    color: teal;
+    padding-top: 3%;
+    padding-bottom: 0.5%;
+}
+.worktitle{
+    font-size: 130%;
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 3%;
+}
+.profileTXT{
+    padding-top: 1%;
+    padding-left: 1%;
+    font-size: 150%;
+    font-weight: bold;
+    color: teal;
+}
+.SmallprofileTXT{
+    padding-top: 1%;
+    padding-left: 1%;
+    font-size: 100%;
+    font-weight: bold;
+    color: teal;
+}
+.digDivStyle{
+    padding-left: 7.5%;
+}
+.btnStyle{
+    background-color: teal;
+    margin-left: 1%;
+    height: 20px;
+}
+.mrgBotm{
+    margin-bottom: 2%;
+}
+.dateStyle{
+    color: teal;
+    padding-left: 2%;
+}
+.iconsty2{
+    color: teal;
+    padding-top: 3px;
+    padding-left: 2%;
+}
+.secDivStyle{
+    margin-top: 0.5%;
+}
+.yearStl{
+    text-align: end;
+    padding-right: 3%;
+}
+.boldtxt{
+    font-weight: bold;
+}
+.goodStyl{
+    text-align: end;
+}
